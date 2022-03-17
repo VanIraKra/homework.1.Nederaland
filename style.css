@@ -9,6 +9,51 @@ h4 {
     margin-top: 100px;
 }
 
+p {
+    text-align: left;
+    width: 200px;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 50px 50px;
+    margin-top: 40px;
+    background: red;
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+
+
+}
+
+.mail a {
+color: green;
+padding-bottom: 40px;
+}
+
+.mail a:hover {
+    color: orange;
+}
+
+.telegram a {
+color: blue;
+}
+
+.telegram a:hover {
+    color: pink;
+}
+
+.info {
+        text-align: left;
+        width: 200px;
+        border: 1px solid #333;
+        box-shadow: 8px 8px 5px #444;
+        padding: 50px 50px;
+        margin-top: 40px;
+        background: violet;
+        color: green;
+        font-size: 20px;
+    }
+
+
 ul {
     list-style: none; 
 
